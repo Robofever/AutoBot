@@ -1,5 +1,17 @@
 # AutoBot
 ### Place the sort.py in the same folder as PanelImages
+##### Folder structure  <br>
+Solar_Panel_Soiling_Image_dataset <br>
+-Clean                     <br>
+-PanelImages               <br>
+  \-- 0.1                    <br>
+  \-- 0.2         <br>
+  \-- ...         <br>
+  \-- 1.0         <br>
+-Unclean                   <br>
+-Clean.txt                 <br>
+-sort.py                   <br>
+-Sort Clean and Unclean.py <br>
 ### Run the below code for Sorting according to losses (This copies the files)
 ##### `pip install progressbar`
 ##### and then 
